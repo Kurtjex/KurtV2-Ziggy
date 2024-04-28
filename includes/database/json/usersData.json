@@ -34,12 +34,12 @@
     "gender": 2,
     "money": 0,
     "createTime": {
-      "timestamp": 1714306312906
+      "timestamp": 1714308318228
     },
     "data": {
-      "timestamp": 1714306312906
+      "timestamp": 1714308318228
     },
-    "lastUpdate": 1714306312906
+    "lastUpdate": 1714308318228
   },
   "61554222594723": {
     "userID": "61554222594723",
@@ -62,12 +62,12 @@
     "gender": 2,
     "money": 0,
     "createTime": {
-      "timestamp": 1714306053807
+      "timestamp": 1714308308019
     },
     "data": {
-      "timestamp": 1714306053807
+      "timestamp": 1714308308019
     },
-    "lastUpdate": 1714306053807
+    "lastUpdate": 1714308308019
   },
   "61558582357555": {
     "userID": "61558582357555",
@@ -656,5 +656,19 @@
       "timestamp": 1714306201895
     },
     "lastUpdate": 1714306201895
+  },
+  "100062459202786": {
+    "userID": "100062459202786",
+    "name": "John Ayden Regis",
+    "vanity": "Aydenpogi13",
+    "gender": 2,
+    "money": 0,
+    "createTime": {
+      "timestamp": 1714308301342
+    },
+    "data": {
+      "timestamp": 1714308301342
+    },
+    "lastUpdate": 1714308301342
   }
 }
